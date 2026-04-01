@@ -13,9 +13,9 @@ Use this filename convention:
 For example, for image of digit 3 handwritten by Group 4 member 1, its filename must be 3-4-1.png.
 
 ## And this student must create and upload all of the following image files:
-  0-4-1.png <br>
-  1-4-1.png
-  2-4-1.png
+  - 0-4-1.png <br>
+  - 1-4-1.png
+  - 2-4-1.png
   3-4-1.png
   4-4-1.png
   5-4-1.png
